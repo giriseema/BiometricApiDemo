@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BiometricApiDemo</string>
+    <string name="check_auth">Biometric Auth Check</string>
+</resources>
